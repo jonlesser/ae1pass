@@ -6,7 +6,7 @@ This App Engine app serves your 1PasswordAnywhere files so you can access your p
 See this page for information on 1PasswordAnywhere:
 http://help.agilebits.com/1Password3/1passwordanywhere.html
 
-You passwords should be reasonably safe. The keychain file encrypted, all data will be sent over SSL, and only user logged in with your Google account will be able to access the files.
+You passwords should be reasonably safe. The keychain files are encrypted, all data will be sent over SSL, and only user logged in with your Google account will be able to access the files.
 
 Setup
 =====
