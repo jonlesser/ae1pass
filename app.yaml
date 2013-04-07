@@ -1,0 +1,17 @@
+application: 1pas4d
+env_variables:
+  AGILE_KEYCHAIN_ARCHIVE: '1Password.zip'
+  USER_EMAIL: 'jonlesser@gmail.com'
+
+## You should not need to change anything below this line ##
+
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /.*
+  script: ae1pass.app
+  login: required
+  secure: always
