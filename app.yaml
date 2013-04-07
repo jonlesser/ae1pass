@@ -1,7 +1,7 @@
-application: 1pas4d
+application: REPLACE-WITH-YOUR-APP-ID
 env_variables:
-  AGILE_KEYCHAIN_ARCHIVE: '1Password.zip'
-  USER_EMAIL: 'jonlesser@gmail.com'
+  AGILE_KEYCHAIN_ARCHIVE: 'REPLACE-WITH-ZIPPED-FILENAME'
+  USER_EMAIL: 'REPLACE-WITH-EMAIL-LINKED-TO-A-GOOGLE-ACCOUNT'
 
 ## You should not need to change anything below this line ##
 
