@@ -1,4 +1,5 @@
-1Password.zip
+# People shouldn't upload their 1Password keychains to github.
+*.zip
 
 *.py[cod]
 
